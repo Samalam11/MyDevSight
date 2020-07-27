@@ -1,0 +1,73 @@
+body{
+    background-color: ivory;}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+  }
+#background{
+    display: block;
+    margin: -10px 0px 100px 250px;
+    height:550px;
+    
+
+}
+
+h1{
+    color:purple;
+    font-size: 50px;
+    text-align: center;
+    margin: -10px;
+   
+    
+    
+}
+#mainText{
+    color:black;
+    font-size:30px;
+    text-align:center ;
+    margin: -500px 50px 120px 50px;
+}
+.btn {
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    background-color:palevioletred;
+}
+.button{
+    text-align: center;
+}
+#facebook{
+    height: 65px;
+    
+}
+#instagram{
+    height:65px ;
+}
+
+img{
+    height:60px;
+}
+
+
+#imagesMain {
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    text-align: center;
+  }
+  #imagesMain img {
+    vertical-align: middle;
+  }
+  *{
+    font-family: 'Righteous', cursive;
+  }

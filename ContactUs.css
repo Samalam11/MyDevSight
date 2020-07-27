@@ -1,0 +1,79 @@
+*{
+    font-family: 'Righteous', cursive;
+  }
+.centre{
+    margin: 0px 0px 0px 20px;
+    height: 140px;
+  }
+
+  h1{
+    color:purple;
+    font-size: 30px;
+    margin: -10px;
+}
+h2{
+    color:purple;
+    font-size: 60px;
+    margin: -90px 0px 0px 0px;
+    text-align: center;
+    }
+
+
+.textSize{
+    color:black;
+    text-align: center;
+    font-size:20px;
+
+    margin: 170px 0px 0px 0px;
+}
+.fontSize{
+    color:palevioletred;
+    font-size:30px; 
+    font-weight:bold;
+}
+.btn {
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Righteous', cursive;
+}
+.btn:hover{
+background-color:palevioletred;
+}
+.button{
+text-align: center;
+margin: -100px;
+}
+
+
+
+
+
+
+
+#facebook{
+height: 65px;
+
+}
+#instagram{
+height:65px ;
+}
+
+img{
+height:60px;
+}
+
+
+#imagesMain {
+padding: 0;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+text-align: center;
+}
+#imagesMain img {
+vertical-align: middle;
+}
