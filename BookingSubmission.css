@@ -14,16 +14,14 @@
     text-align: end;
     font-family: 'Righteous', cursive;
 }
-h2{
-    color:purple;
-    font-size: 60px;
-    margin: -50px 0px 0px 150px;
+.bold{
+    font-weight: bolder;
 }
-
 .mainText{
     color:black;
-    font-size:25px;
+    font-size:30px;
     margin: 0px 0px 0px 10px;
+    text-align: center;
 }
 
 .textBox{
